@@ -1,1 +1,1 @@
-# Pro-JavaScript-Calcy
+# Pro-JavaScript-Cal
